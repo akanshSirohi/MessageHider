@@ -20,5 +20,3 @@ Add your MongoDB connection string in config/keys.js folder
 ```
 $ npm start
 ```
-### Live Demo
-Example is live on heroku: [Open App](https://msg-hider.herokuapp.com/)
